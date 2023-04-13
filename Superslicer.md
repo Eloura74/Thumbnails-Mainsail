@@ -32,5 +32,8 @@ Cocher "Marquer les Objets".
   <img width="1000" height="150" src="https://github.com/Eloura74/Thumbnails-Mainsail/blob/main/thumbnails5.png">
 </p>
 
+<br>
+<br>
 
+Et voilà c'est tout, vous avez maintenant une image de prévisualisation de votre fichier slicer dans Superslicer
 
