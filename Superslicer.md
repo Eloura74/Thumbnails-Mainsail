@@ -25,7 +25,12 @@ Dans "Taille pour le G-Code" mettre 32x32 pour "Fins" et 400x300 pour "grand"
 Il va maintenant falloir aller dans "Réglage de l'Impression" -- "Option de Sortie" -- "Fichier de Sortie".
 <br>
 Cocher "Marquer les Objets".
+<br>
+<br>
 
+<p align="center">
+  <img width="1000" height="150" src="https://github.com/Eloura74/Thumbnails-Mainsail/blob/main/thumbnails5.png">
+</p>
 
 
 
