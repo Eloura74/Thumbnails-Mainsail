@@ -3,6 +3,18 @@
 </p>
 
 
-# Dans un premier temp, assurez vous d'avoir la version de Superslicer v2.2.54.0 ou plus.
+# Dans un premier temps, assurez vous d'avoir la version de Superslicer v2.2.54.0 ou plus.
+<br>
+<br>
+
+# Ensuite il va falloir passer les paramètres du slicer en "mode expert" si vous ne l'avez pas déjà fait.
+<br>
+<br>
+
+# Aller ensuite dans l'onglet "Réglages de l'Imprimante" -- "Général" -- "Vignettes".
+<br>
+<br>
+
+
 
 
